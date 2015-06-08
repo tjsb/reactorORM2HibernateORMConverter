@@ -246,7 +246,7 @@ component {
             	entityName &= namepart;
             }
     	}
-    	entityName = replaceNoCase(entityName, "LanguageTemplate", "Lang");
+    	//entityName = replaceNoCase(entityName, "LanguageTemplate", "Lang");
     	return entityName;
     }
     
